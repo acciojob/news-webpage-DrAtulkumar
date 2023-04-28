@@ -25,7 +25,7 @@ nav{
 	justify-content: space-around;
 }
 
-.list{
+.latest-news-section{
 	width:50%;
 	background: white;
 	border-redius: 500px;
@@ -35,7 +35,7 @@ nav{
 	
 }
 
-.imgdiv{
+.pictorial-news-section{
 	width:50%;
 	background: white;
 	border-redius: 100px;
